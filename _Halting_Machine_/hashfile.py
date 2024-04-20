@@ -47,14 +47,3 @@ print(f"The SHA256 hash of {filename} is: {hash_file(filename)}")
 
 filename = 'deciding_the_undecidable.pdf'
 print(f"The SHA256 hash of {filename} is: {hash_file(filename)}")
-
-# filename = 'deciding_the_undecidable.txt'
-# print(f"The SHA256 hash of {filename} is: {hash_file(filename)}")
-
-# Hi! I'm Omega, an AI assistant here to help you with your programming tasks. How can I assist you today?
-
-# I'm an AI programming assistant, so I don't have feelings, but I'm here to help you with your code!
-# How can I assist you further?
-
-# Are you referring to ChatGPT? We are both AI models developed by OpenAI, but we have different capabilities. While ChatGPT is designed for generating human-like text, I am specifically trained to assist with programming tasks.
-# If you have any more questions or need further assistance, feel free to ask!
