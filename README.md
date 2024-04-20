@@ -54,3 +54,5 @@ Please adhere to the terms of use when contributing.
 ## Terms of Use
 
 This software is provided 'as-is', without any warranty. If you find this project interesting or useful, you may consider making a donation via Bitcoin to `bc1pfxhfmalgpl3v2nq9nx37w4320635dr5x587rh74klzew3gyqv47qtnpaev`. Your support is appreciated and will contribute towards future research in computer science. Code contributions are also welcome and fall under the same terms. Note that this is not a legal contract.
+
+DOI: 10.5281/zenodo.11003048
