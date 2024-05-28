@@ -38,6 +38,7 @@ def hash_file(filename):
                 hash_sha256.update(chunk)
         return hash_sha256.hexdigest()
 
+
 # Example usage
 filename = 'h.py'
 print(f"The SHA256 hash of {filename} is: {hash_file(filename)}")
