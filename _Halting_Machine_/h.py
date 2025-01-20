@@ -4,7 +4,7 @@ from math import sin, cos, tan, atan, exp, pi
 # Date: April 20th, 2024
 # Terms of Use:
 # This software is provided 'as-is', without warranty.
-# If you find this interesting or useful in any way, feel free to make a $BTC donation to 'bc1pfxhfmalgpl3v2nq9nx37w4320635dr5x587rh74klzew3gyqv47qtnpaev'.
+# If you find this interesting or useful in any way, feel free to make a $BTC donation to 'bc1pmec067t6vksmyhw5njdztfu89rkwvd5yup446asr9c5zt24vumrqcfn4yp'.
 # Donations are appreciated and will contribute towards future research in computer science.
 # Code contributions are also welcome and fall under the same terms.
 # Not a legal contract.
