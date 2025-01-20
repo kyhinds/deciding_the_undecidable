@@ -4,7 +4,9 @@
 ### Date: April 20th, 2024
 
 ## Description
+
 This project presents an exploration into Alan Turing's Halting Problem, providing a solution using ordinal arithmetic and trigonometric recursion. It builds on the principles of Turing machines, proposing a function H that correctly decidedes the expected behavior of Q at each recursive depth. This research is grounded in the paper included in this repo "Deciding The Undecidable" (Hinds, 2024).
+
 
 ## Features
 
